@@ -23,7 +23,7 @@
   {
     "label": "New games",
     "tagline": "New games"
-    "icon": "new-games.png",,
+    "icon": "new-games.png",
     "linktext": "View new games",
     "url": "#newgames"
   }
